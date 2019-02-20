@@ -1,0 +1,17 @@
+
+p{
+    visibility: hidden;
+}
+.container{
+    margin: auto;
+}
+.row{
+    width: max-content;
+}
+.col{
+    width: 2em;
+    height:2em;
+    margin: 1px;
+    background-color: silver;
+    border: 1px solid darkgray;
+}
